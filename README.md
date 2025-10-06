@@ -167,11 +167,6 @@ JavaNews/
 
  Tratamento de erros (input inválido, artigo inexistente, exceções)
 
-📄 Licença
----
-
-Este projeto está licenciado sob a MIT License.
-
 👨‍💻 Desenvolvedor
 ---
 
